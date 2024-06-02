@@ -1,3 +1,5 @@
+//Programa que lê variáveis pelo teclado e as imprime na tela
+
 #include <stdio.h>
 
 int main()

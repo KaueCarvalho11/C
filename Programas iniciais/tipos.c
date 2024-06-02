@@ -1,3 +1,5 @@
+//Programa que apresenta dados de diferentes variáveis
+
 #include <stdio.h>
 
 int main()

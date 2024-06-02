@@ -1,3 +1,5 @@
+//Programa clássico inicial
+
 #include<stdio.h>
 
 int main(){
