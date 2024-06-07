@@ -1,3 +1,6 @@
+/*Programa que solicita ao usuário que informa sua idade
+e com base no valor informado, imprime uma mensagem específica
+*/
 #include<stdio.h>
 
 int main() 
