@@ -1,5 +1,5 @@
 /* Programa que solicita que o usuário informe números até que o valor informado
-seja igual a 0
+seja negativo
 */
 
 #include<stdio.h>
