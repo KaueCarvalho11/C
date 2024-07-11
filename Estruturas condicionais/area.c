@@ -1,4 +1,4 @@
-/* Programa que calcula a area de um circulo ou de um triangulo, a depender da escolha
+/* Programa que calcula a area de um circulo ou de um retângulo, a depender da escolha
 do usuário, com o mesmo informando os dados necessários para o cálculo
 */
 
@@ -36,9 +36,9 @@ int main(){
         printf("Informe a altura do retangulo ");
         scanf("%f", &altura);
 
-        float area_triangulo = base * altura;
+        float area_retangulo = base * altura;
 
-        printf("Area do retangulo: %2f", area_triangulo);
+        printf("Area do retangulo: %2f", area_retangulo);
 
         break;
     
