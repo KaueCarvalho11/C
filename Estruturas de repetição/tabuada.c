@@ -7,7 +7,7 @@ int main()
 {
     int numero;
 
-    printf("Informe um numero inteiro de 1 a 10: ");
+    printf("Informe um numero inteiro: ");
     scanf("%d", &numero);
 
     for (int i = 0; i < 11; i++)
