@@ -4,7 +4,7 @@ e com base no valor informado, imprime uma mensagem específica
 
 #include<stdio.h>
 
-int main ()
+int main()
 {
 
     int idade;
